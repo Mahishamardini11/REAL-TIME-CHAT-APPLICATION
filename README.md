@@ -27,6 +27,8 @@ The project is designed to demonstrate how a basic chat interface can be created
 
 ✅ Scroll-to-Latest Message: Automatically scrolls to the latest message to enhance user experience.
 
-
-
 ✅ Framework-Free: Built entirely without any libraries or frameworks—only core web technologies.
+
+
+Application Screenshot
+<img width="1920" height="853" alt="Image" src="https://github.com/user-attachments/assets/7a1b5898-d6bf-483d-9bcd-9151334c85a9" />
